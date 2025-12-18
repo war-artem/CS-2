@@ -1,0 +1,97 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: fantasy;
+}
+
+main{
+    padding: 20px;
+}
+
+body{
+    background-color: black;
+    color: whitesmoke;
+}
+
+header{
+    background-color: orange;
+    text-align: center;
+}
+
+p{
+    max-width: 900px;
+}
+
+h1{
+    font-size: 60px; 
+}
+ 
+h2{
+    font-size: 36px;
+    color: rgba(0, 75, 214, 0.939);
+}
+
+h3{
+    font-size: 28px;
+    color: orange;
+}
+
+.gun{
+    font-size: 20px;
+    text-align: left;
+    padding: 4px;
+}
+
+header img{
+    width: 60px;
+}
+
+nav{
+    font-size: 30px;
+    padding: 20px;
+}
+
+nav a{
+    padding: 10px;
+    margin: 80px;
+    border: 5px solid darkred;
+    border-radius: 15px;
+    background-color: rgba(0, 0, 0, 0.442);
+    color: rgba(0, 76, 255, 0.923);
+    text-decoration: none;
+}
+
+nav a:hover {
+    color: aliceblue;
+}
+
+td {
+    border: 2px solid orange;
+    text-align: left;
+    padding: 4px;
+}
+
+tr{
+
+}
+
+img {
+    width: 70px;
+    height: auto;
+}
+
+footer {
+    padding: 30px;
+    background-color: rgba(0, 57, 190, 0.923);
+}
+
+.map{
+    width: auto;
+    height: 300px;
+    padding: 10px;
+}
+
+section img:hover {
+    width: 600px;
+    height: auto;
+}
